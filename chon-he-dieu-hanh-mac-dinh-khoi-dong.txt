@@ -1,0 +1,5 @@
+sudo gedit /boot/grub/grub.cfg
+
+tim den dong set default = "0"
+
+thay bang so thu tu cua he dieu hanh ban muon chon
